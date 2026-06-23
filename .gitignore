@@ -1,0 +1,11 @@
+videos/
+templates/
+vipe_i2v_data/
+checkpoints/
+logs/
+wan_models/
+wandb/
+__pycache__/
+*.pyc
+self_forcing.egg-info/
+prompts/vidprom_filtered_extended.txt
